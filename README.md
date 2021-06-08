@@ -1,4 +1,4 @@
-### Hi!! I'm Hiroki Oka!
+# Hi!! I'm Hiroki Oka!
 ## Interest
 - Vim/NeoVim
 - JavaScript
