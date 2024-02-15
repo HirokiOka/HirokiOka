@@ -1,6 +1,6 @@
-### Interest
+# Interest
 - JS/TS
-- C++, openFrameworks
+- Go
 - Vim
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
